@@ -2,8 +2,8 @@
 
 <div align="center">
 
-# Hey! Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="40">  <br>
-
+# Hey! Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="40"> 
+<br>
 </div> 
 
 Welcome to my page!  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; I'm ***Camila***, a QA Analyst and Fullstack Developer in the making.
@@ -63,11 +63,35 @@ Welcome to my page!  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
+---
 
+<div align="center">
+
+<br>
+
+**🤔 Got an exciting project or want to chat about tech?**  
+
+
+<br>
+
+<img width="300px" alt="Call me GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xvb3pscmYzdnNpaHBpOGcwbXNreHkyemExbnl1NXAxcDY3M2xnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3yRHVLXGeodopGpq7l/giphy.gif" />
+
+<br>
+<br>
+
+**🚀 I'm all ears and ready to dive in!**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-battagliotti/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:battagliotticamila@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cami_codes)
+<br>
+<br>
+</div>
 
 
 ---
-
 
 <div align="center">
   <h2>📈 My GitHub Stats</h2>
@@ -91,28 +115,16 @@ Welcome to my page!  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy
 </div>
 
 
----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 
-### 🌍 A Global Explorer
-
-<img align="right" width="120px" alt="Cool GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM5dGs5Zmpja3c0ejIxdzR4cWN3dXhlZm9ocTc0cWh0dW8xcDl3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpnDwPEhw6ZfYq26kx/giphy.gif" />
 
 
-I've lived in:  
-- <img src="https://cdn-icons-png.flaticon.com/512/197/197573.png" width="20"/> **Argentina** – My home country, where my journey began.  
-- <img src="https://cdn-icons-png.flaticon.com/128/16022/16022729.png" width="20"/> **Spain** – My current home, where I'm growing and evolving in tech.  
-- <img src="https://cdn-icons-png.flaticon.com/512/323/323380.png" width="20"/> **Ireland** –Where, between St. Patrick's celebrations and a pint of Guinness, I discovered my passion for technology.
-- <img src="https://cdn-icons-png.flaticon.com/128/13980/13980520.png" width="20"/> **New Zealand** – Explored the stunning landscapes of *The Lord of the Rings*, embraced the passion for rugby with the All Blacks, and experienced a truly unique way of life.  
-- <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="20"/> **Italy** – Enjoyed the rich culture, history, and, of course, the food!
 
----
-
-🚀 Got an exciting project or fancy a chat about tech? I’m all ears and ready to dive in!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-battagliotti/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:battagliotticamila@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cami_codes)
 
 
 
