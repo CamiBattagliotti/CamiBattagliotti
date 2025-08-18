@@ -15,7 +15,7 @@ Welcome to my page!  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy
 ---
 
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 
 #### **Programming Skills**  
 <p align="left">
