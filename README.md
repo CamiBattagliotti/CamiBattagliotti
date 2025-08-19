@@ -43,8 +43,10 @@ Welcome to my page!  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy
 <p align="left">
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">  
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">  
+  <img src="https://img.shields.io/badge/Xray-1F6FEB?style=for-the-badge&logo=jira&logoColor=white" alt="Xray">
   <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white" alt="Redmine">  
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+  
 </p>
 
 #### **Databases**  
@@ -58,6 +60,8 @@ Welcome to my page!  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy
 #### **Currently learning**  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">  
+<img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium WebDriver">
 </p>
 
 #### **Other Tools**  
