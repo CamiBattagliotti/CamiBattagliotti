@@ -6,7 +6,7 @@
 <br>
 </div> 
 
-Welcome to my page!  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; I'm ***Camila***, a QA Analyst and Fullstack Developer in the making.
+Welcome to my page!  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; I'm ***Camila***, a QA Engineer and Fullstack Developer in the making.
 
 💡 Constantly exploring new technologies and eager to solve challenging problems.  
 ✨ Let's create something amazing together!
